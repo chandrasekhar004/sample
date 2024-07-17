@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello i am gojng to changr the world like anything before
+=======
+hello how are you my boy what can i do for you
+>>>>>>> b25f3a5f725a38b018447942bced4555e62cdb3e
